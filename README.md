@@ -1,1 +1,1 @@
-# NC-State-Nova-Data-Viz-Challenge-2021
+# NC State Nova Data Viz Challenge 2021
