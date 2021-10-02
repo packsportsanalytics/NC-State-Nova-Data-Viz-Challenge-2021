@@ -6,8 +6,6 @@ We want to give a big thanks to everyone who helped us out with this:
 
 Carlie Markey for helping us find the data
 
-Alyssa Longmuir for being our Judge
-
 SportLogiq for Providing the Data  
 
 The PWHPA (Professional Women's Hockey Players Association) and Jayna Hefford for allowing this data to be available  
